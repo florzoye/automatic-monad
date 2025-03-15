@@ -70,14 +70,6 @@ arb_rpc = "https://1rpc.io/arb"
 wallets = [{'key': '123qweasxd','proxy': 'user:pass@ip:port'}] # ADD YOUR WALLETS AND PROXIES HERE
 ```
 
----
-
-# 🏷️ **Pricing for Monad AutoTestTool**  
-
-| Plan               | Price  | Updates  |
-|--------------------|--------|----------|
-| Lifetime          | $300   | ❌ No    |
-| Lifetime          | $500   | ✅ Yes   |
 
 ---
 
@@ -88,7 +80,7 @@ wallets = [{'key': '123qweasxd','proxy': 'user:pass@ip:port'}] # ADD YOUR WALLET
 - ✅ **Technical support**  
 - ✅ **Option to add 3-5 new dApps** *(only available with active update plans)*  
 
-💬 **For purchase, contact via Telegram:** [@xflorzoye](https://t.me/xflorzoye)  
+💬 **contact via Telegram:** [@xflorzoye](https://t.me/xflorzoye)  
 
 ---
 ## monad
